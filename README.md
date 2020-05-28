@@ -1,4 +1,4 @@
 # Javascript
 Creating editable new element, drag and drop, etc
 
-![Screenshot](../master/assets/js-ts-test.jpg)
+![Screenshot](https://github.com/elitebluestar/Javascript/blob/assets/js-ts-test.jpg )
